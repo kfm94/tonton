@@ -1,2 +1,4 @@
 gunicorn==22.0.0
 packaging==24.1
+pandas
+
